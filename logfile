@@ -2,3 +2,7 @@ Log File
 
 Jan 25th 
 Today I read through reference image() in the p5.js reference library. 
+
+March 8th 
+Yes it's been a long time but today I read through "Unicode, UTF8 & Character Sets: The Ultimate Guide" (here's the link:https://www.smashingmagazine.com/2012/06/all-about-unicode-utf8-character-sets/)
+to sorta understand the character sets and pretty much like a summary of everything relating to character sets, UTF-8 and - like the summary of the article said - everything that could possibly go wrong, well not go wrong per say but the problems that can arise with it.
